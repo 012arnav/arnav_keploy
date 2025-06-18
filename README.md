@@ -25,8 +25,8 @@ Welcome to my GitHub! I'm a passionate developer with a strong interest in build
 
 ## 🏆 Achievements
 
-- 🥇 Winner of [Hackathon Name] for building a [brief description].
-- 📜 AWS Certified Cloud Practitioner (or any other certs you hold).
+- 🥇 Winner of Badminton tournament at clusters.
+- 📜 AWS Certified Cloud Practitioner.
 
 ---
 
@@ -41,7 +41,6 @@ Welcome to my GitHub! I'm a passionate developer with a strong interest in build
 ## 📫 Let's Connect
 
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- Email: your.email@example.com
+- Email: arnavchatterjee167502008@gmail.com
 
 Thanks for visiting! 🙌
